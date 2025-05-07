@@ -1,0 +1,16 @@
+{
+  "name": "chinook",
+  "version": "1.0.0",
+  "description": "Script to transform a csv file into an array of data objects, representing",
+  "license": "ISC",
+  "author": "mmccawley@us.ibm.com",
+  "type": "module",
+  "main": "fold-csv.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "fast-csv": "^5.0.2",
+    "lodash": "^4.17.21"
+  }
+}
